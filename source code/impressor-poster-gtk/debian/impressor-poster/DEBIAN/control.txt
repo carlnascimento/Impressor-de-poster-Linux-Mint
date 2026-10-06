@@ -1,0 +1,11 @@
+Package: impressor-poster
+Version: 1.1.0-1
+Architecture: all
+Maintainer: Carlos <carlos@localhost>
+Installed-Size: 29
+Depends: python3, python3-gi, gir1.2-gtk-3.0, python3-pil, python3-reportlab, python3-cairo
+Section: graphics
+Priority: optional
+Description: Impressor de Pôsteres
+ Aplicativo GTK para dividir imagens em várias folhas A4.
+ Inclui menu de divisão, visualização e geração de PDF.

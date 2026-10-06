@@ -1,0 +1,13 @@
+Source: impressor-poster
+Section: graphics
+Priority: optional
+Maintainer: Carlos <carlos@localhost>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2
+
+Package: impressor-poster
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-3.0, python3-pil, python3-reportlab, python3-cairo
+Description: Impressor de Pôsteres
+ Aplicativo GTK para dividir imagens em várias folhas A4.
+ Inclui menu de divisão, visualização e geração de PDF.

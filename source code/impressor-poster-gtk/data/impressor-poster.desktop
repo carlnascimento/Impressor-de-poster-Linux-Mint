@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Impressor de Pôsteres
+Comment=Impressão de pôsteres em folhas A4
+Exec=impressor-poster
+Icon=printer
+Terminal=false
+Type=Application
+Categories=Graphics;Office;Printing;
+StartupNotify=true

@@ -1,0 +1,2 @@
+impressor-poster_1.1.0-1_all.deb graphics optional
+impressor-poster_1.1.0-1_amd64.buildinfo graphics optional

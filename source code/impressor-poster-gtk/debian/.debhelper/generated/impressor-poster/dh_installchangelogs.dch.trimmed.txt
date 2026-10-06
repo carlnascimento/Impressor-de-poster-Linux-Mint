@@ -1,0 +1,10 @@
+impressor-poster (1.1.0-1) unstable; urgency=medium
+
+  * GTK interface in Portuguese.
+  * Poster division dropdown from 1 x 1 through 10 x 10.
+  * Automatic page count.
+  * Visual poster preview.
+  * A4 PDF generation.
+  * Cut marks and page numbering options.
+
+ -- Carlos <carlos@localhost>  Wed, 12 Aug 2026 23:30:00 -0300

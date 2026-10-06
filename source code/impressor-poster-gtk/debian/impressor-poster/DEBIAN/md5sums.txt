@@ -1,0 +1,4 @@
+f1510102571199730bab547c77b9bb44  usr/bin/impressor-poster
+777bd62e705389311e91a40bb5f63843  usr/share/applications/impressor-poster.desktop
+affa205ba401fac6826394d1dd69efea  usr/share/doc/impressor-poster/changelog.Debian.gz
+ff084b2ffc52e7eb2b47aaf399de64e6  usr/share/impressor-poster/main.py
